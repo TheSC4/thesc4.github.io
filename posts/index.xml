@@ -15,7 +15,7 @@
       
       <guid>https://thesc4.github.io/posts/myfirstpost/</guid>
       <description>Unveiling Cloud Squatting</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://thesc4.github.io/posts/myfirstpost/featured.png" />
     </item>
     
   </channel>
