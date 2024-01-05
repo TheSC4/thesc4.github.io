@@ -7,6 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Samit Chavhan</copyright>
-    <atom:link href="https://thesc4.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thesc4.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud Security</title>
+      <link>https://thesc4.github.io/tags/cloud-security/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesc4.github.io/tags/cloud-security/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vulnerabilities</title>
+      <link>https://thesc4.github.io/tags/vulnerabilities/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesc4.github.io/tags/vulnerabilities/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>

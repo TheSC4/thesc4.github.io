@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Samit Chavhan</copyright>
-    <atom:link href="https://thesc4.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thesc4.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unveiling Cloud Squatting: Understanding a Modern Cyber Threat</title>
+      <link>https://thesc4.github.io/posts/myfirstpost/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesc4.github.io/posts/myfirstpost/</guid>
+      <description>Unveiling Cloud Squatting</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://thesc4.github.io/posts/myfirstpost/featured.png" />
+    </item>
+    
   </channel>
 </rss>
